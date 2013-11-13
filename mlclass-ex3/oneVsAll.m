@@ -49,6 +49,19 @@ X = [ones(m, 1) X];
 %                 initial_theta, options);
 %
 
+% y is m * 1 matrix, y(i) = k, k is digital value of corresponding number figure.
+% X is m * (n+1) matrix, ones already added above
+
+
+options = optimset('GradObj', 'on', 'MaxIter', 50);
+for i=1:num_labels
+	initial_theta = zeros(n+1, 1)
+    [theta] = ...
+    fmincg (@(t)(lrCostFunction(t, X, (y == i), lambda)), ...
+                initial_theta, options);
+    all_theta(i,:) = theta;
+end
+
 
 
 

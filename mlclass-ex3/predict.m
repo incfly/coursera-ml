@@ -22,8 +22,11 @@ p = zeros(size(X, 1), 1);
 %
 
 
-
-
+X = [ones(m, 1) X];
+%fprintf('size of X %d %d, sizeof theta1 %d %d\n', size(X, 1), size(X,2), size(Theta1, 1), size(Theta1,2));
+hidden = [ones(1, m) ;sigmoid(Theta1 * X')];
+t = sigmoid(Theta2 * hidden)
+[r,p] = max(t', [], 2)
 
 
 
