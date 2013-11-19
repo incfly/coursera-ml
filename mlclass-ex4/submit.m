@@ -160,7 +160,7 @@ end
 
 % ***************** REMOVE -staging WHEN YOU DEPLOY *********************
 function url = site_url()
-  url = 'http://class.coursera.org/ml-003';
+  url = 'http://class.coursera.org/ml-004';
 end
 
 function url = challenge_url()
