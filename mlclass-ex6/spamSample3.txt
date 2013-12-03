@@ -1,0 +1,465 @@
+>Your Weekly Summary from Springpad
+>
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Weekly Summary from Springpad - Dec 02, 2013</title>
+</head>
+<body style="text-align: center; background-color: #ffffff; font-size: 100%; margin: 0px; padding: 0px;" bgcolor="#f9f9f9" >
+  <div style="text-align: center; font-family: Helvetica, 'Helvetica Neue', Arial; font-size: 1em;" class="backup-container">
+    <div style="background-color: #ffffff;">
+      <div style="margin: 0px auto; min-width: 400px; max-width: 600px; padding: 50px 20px 0px;" class="main-container">
+
+        <div style="margin-bottom: 30px;">
+          <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com
+" title="Springpad: Everyday life, done better"><img src="http://springpad.com/springpad/images/elements/logo.springpad.309x60.png" height="30" width="155" alt="Alerts, reminders and what's new on Springpad" /></a>
+        </div>
+
+
+
+<!-- Ticker Tape -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#410175" background="http://springpad.com/springpad/images/email/hiagain.ticker.bg.png" style="margin-bottom: 3%"><tbody><tr>
+  <td style="text-align: left; font-size: 0.01em; line-height: 0;"><img src="http://springpad.com/springpad/images/email/hiagain.ticker.l.png" alt="(Ticker Left-Border)" height="42" width="9" /></td>
+  <td style="text-align: center; color: white; font-size: 18px; font-family: Helvetica, 'Helvetica Neue', Arial;" valign="middle">Your Recent Springpad Activity</td>
+  <td style="text-align: right; font-size: 0.01em; line-height: 0;"><img src="http://springpad.com/springpad/images/email/hiagain.ticker.r.png" alt="(Ticker Left-Border)" height="42" width="9" /></td>
+</tr></tbody></table>
+<!-- Ticker Tape End -->
+
+  <br/>
+
+
+<div style="margin: 10px 4% 25px;">
+  <table cellpadding="0" cellspacing="0" border="0" width="100%" style="text-align: left; font-size: 14px;"><tbody>
+
+        <tr><td style="font-size: 0.01em; line-height: 0.01;" background="http://springpad.com/springpad/images/email/hiagain.gfor.div.gif" height="1" colspan="2">&nbsp;</td></tr>
+
+                
+    
+    <tr><td style="padding: 12px;" valign="middle" style="text-align: center;">
+        <img src="http://springpad.com/springpad/images/icons/blocks/icon.block-springpad.32px.A2A2A2.png" width="16" height="16" alt="Springpad Icon (Springs this Week)" />
+      </td><td style="padding: 12px 12px 12px 0px;">
+                 You saved <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fhujianfei258" style="text-decoration: none; color: #DD4469" title="(Click to view all your springs)">1 new item</a> this week
+              </td>
+    </tr>
+    
+        <tr><td style="font-size: 0.01em; line-height: 0.01;" background="http://springpad.com/springpad/images/email/hiagain.gfor.div.gif" height="1" colspan="2">&nbsp;</td></tr>
+
+  </tbody></table>
+</div>
+    <div>
+  <table cellpadding="0" cellspacing="0" border="0" width="100%" style="text-align: left; font-size: 14px; margin: 30px 0px 40px;"><tbody>
+    <tr>
+      <td width="92" rowspan="3"><img src="http://springpad.com/springpad/images/email/weekly.dyknow.gif" style="margin: 0px 0px 10px 0px; " width="92" height="103" alt="Did You know? (Graphic)"/></td>
+      <td height="25" width="475"></td>
+    </tr>
+    <tr><td style="font-size: 0.01em; line-height: 0.01;" background="http://springpad.com/springpad/images/email/weekly.bg.triline.gif" height="7">&nbsp;</td></tr>
+    <tr>
+      <td style="font-size: 16px; line-height: 20px; padding: 10px 20px 8px 30px;">
+      Save <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Ftag%2Fmovies" style="text-decoration: none; color: #DD4469" >movies</a>, <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Ftag%2Fbooks" style="text-decoration: none; color: #DD4469" >books</a>, and <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Ftag%2Fgadgets" style="text-decoration: none; color: #DD4469" >products</a>, and we'll let you know when they're in theaters, streaming on Netflix, or on sale.<br/>
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2Fblog%2F2013%2F04%2Fhow-to-use-springpad-alerts-to-save-time-and-money%2F" style="text-decoration: none; color: #DD4469" >Learn more</a></td>
+    </tr>
+    <tr><td style="font-size: 0.01em; line-height: 0.01;" background="http://springpad.com/springpad/images/email/weekly.bg.triline.gif" height="7" colspan="2">&nbsp;</td></tr>
+  </tbody></table>
+</div>
+
+<div style="width: 205px; margin: 6% auto;">
+  <!-- Button -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="bottom"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com"><img src="http://springpad.com/springpad/images/email/comeback.button.top.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+  <tr><td bgcolor="#fec60e" background="http://springpad.com/springpad/images/email/comeback.button.bg.png" valign="center" style="max-height: 31px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com" style="display: block; text-decoration: none; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; text-align: center; color: #482c04; font-size: 14px; line-height: 2em; white-space: nowrap; padding: 0px 1em;">Log In Now</a></td></tr>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="top" bgcolor="#feba00"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com"><img src="http://springpad.com/springpad/images/email/comeback.button.bot.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+</tbody></table>
+<!-- End Button -->
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://springpad.com/springpad/images/email/weekly.bg.triline.gif" width="100%" height="5" style="margin: 15px 0px;"/>
+<div style="margin: 0px 4% 50px;">
+  <h2 style="text-align: center; font-family: Helvetica,'Helvetica Neue',Arial; margin-bottom: 25px;">Organize Your Holidays with Springpad</h2>
+
+  <div style="margin: 0px auto 0px; max-width: 550px;">
+    <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Forganizeyourholidays.com"><img src="http://springpad.com/api/image/scale?w=1100&h=660&url=http://springpad-blog.s3.amazonaws.com/wp-content/uploads/2013/11/cool-mom-picks-gift-giving-guide.png" style="max-width: 100%; max-height: 330px; border: 0px solid black;"/></a>
+  </div>
+  <div style="text-align: justify; font-size: 15px; line-height: 22px; margin: 35px auto;">
+    Springpad has partnered with experts in meal planning, gift-giving, party planning and more to bring you custom notebooks full of useful tips that will make your holiday to-do's a snap! Learn more at http://organizeyourholidays.com
+  </div>
+
+  <div style="width: 205px; margin: 6% auto;">
+    <!-- Button -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="bottom"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Forganizeyourholidays.com"><img src="http://springpad.com/springpad/images/email/comeback.button.top.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+  <tr><td bgcolor="#fec60e" background="http://springpad.com/springpad/images/email/comeback.button.bg.png" valign="center" style="max-height: 31px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Forganizeyourholidays.com" style="display: block; text-decoration: none; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; text-align: center; color: #482c04; font-size: 14px; line-height: 2em; white-space: nowrap; padding: 0px 1em;">Check Out the Notebooks Now</a></td></tr>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="top" bgcolor="#feba00"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Forganizeyourholidays.com"><img src="http://springpad.com/springpad/images/email/comeback.button.bot.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+</tbody></table>
+<!-- End Button -->
+  </div>
+</div>
+
+
+<img src="http://springpad.com/springpad/images/email/weekly.bg.triline.gif" width="100%" height="5" style="margin: 15px 0px;"/>
+
+<div style="margin-top: 20px;">
+      <h2 style="text-align: center; font-family: Helvetica,'Helvetica Neue',Arial; margin-bottom: 25px;">Great Notebooks to Follow</h2>
+
+    <div style="text-align: justify; margin: 40px 4%;">
+      <p style="margin:0px auto; font-size:15px; line-height:18px">This is where you'll see new springs from the users you're following. Follow some of these great notebooks now so you'll see updates here next week.</p>
+    </div>
+  <div style="margin-bottom: 25px; margin-top: 20px;"><table cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto;"><tbody>
+    <tr>
+                        <td  >
+<!--Notebook Begin--><table border="0" style="width: 171px; overflow: hidden; margin: 0px auto; padding: 0px;" cellpadding="0" cellspacing="0"><tbody><tr>
+  <td style="width: 10px; border: 1px solid #d5d5d5; background-color: 																							#BE2C25" bgcolor="																							#BE2C25" width="10">
+    <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fjeffreyphillip%2Fnotebooks%2Fjpspartypicks-32%2Fblocks
+" style="display: block; text-decoration:none; height: 194px">&nbsp;</a></td>
+    <td height="194" width="153" style="overflow: hidden; background-image: url('http://springpad.com/springpad/images/layout/bg.texture.wallpaper.polkadots.yellow.jpg'); background-color: #f7f1db;" background="http://springpad.com/springpad/images/layout/bg.texture.wallpaper.polkadots.yellow.jpg" bgcolor="#f7f1db">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0px; padding:0px;" ><tbody><tr><td colspan="2" height="63" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fjeffreyphillip%2Fnotebooks%2Fjpspartypicks-32%2Fblocks
+" title="Discover JP's Party Picks" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 63px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Frk.weimgs.com%2Fweimgs%2Frk%2Fimages%2Fwcm%2Fproducts%2F201340%2F0008%2Fimg10m.jpg" border="0" alt="Image from JP's Party Picks" width="50%" height="63" /><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Fimages.zgallerie.com%2Fis%2Fimage%2FZGallerie%2Fhero%2Fduo-glass-beverage-dispenser-067946484a_1.jpg" border="0" alt="Image from JP's Party Picks" width="50%" height="63" /></a></td></tr>
+
+      <tr><td rowspan="2" height="76" style="background-color: white;" bgcolor="#FFFFFF">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fjeffreyphillip%2Fnotebooks%2Fjpspartypicks-32%2Fblocks
+" title="Discover JP's Party Picks" style="text-decoration: none; color: #272c29; display: block; padding: 10px; overflow: hidden; height: 100%; min-height: 56px; overflow: hidden; text-align: left; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; font-size: 13px ">
+        JP's Party Picks
+      </a>      </td><td valign="middle" style="text-align: center; background-color:#f0efeb;" bgcolor="#f0efeb" width="40" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fjeffreyphillip%2Fnotebooks%2Fjpspartypicks-32%2Fblocks
+" title="Discover JP's Party Picks" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">36</div>
+items      </a>        </td>
+      </tr>
+      <tr><td valign="middle" style="text-align: center; background-color:#f0efeb" bgcolor="#f0efeb" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fjeffreyphillip%2Fnotebooks%2Fjpspartypicks-32%2Fblocks
+" title="Discover JP's Party Picks" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">119</div>
+followers      </a>      </td></tr>
+
+      <tr><td colspan="2" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fjeffreyphillip%2Fnotebooks%2Fjpspartypicks-32%2Fblocks
+" title="Discover JP's Party Picks" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 55px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Fab.wsimgs.com%2Fwsimgs%2Fab%2Fimages%2Fdp%2Fwcm%2F201341%2F0008%2Fimg91m.jpg" border="0" alt="Image from JP's Party Picks" width="50%" height="55" /><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Fab.pbimgs.com%2Fpbimgs%2Fab%2Fimages%2Fdp%2Fwcm%2F201344%2F0091%2Fimg75c.jpg" border="0" alt="Image from JP's Party Picks" width="50%" height="55" /></a></td></tr></tbody></table>
+    </td>
+    <td style="width: 6px; overflow: hidden; font-size: 0.01px; line-height: 0.01px; -webkit-text-size-adjust:none;" valign="bottom"><img src="http://springpad.com/springpad/images/email/workbook-r-top.gif" alt="" width="6" height="8"/><img src="http://springpad.com/springpad/images/email/workbook-r-side.gif" alt="" width="6" height="186"/></td>
+  </tr>
+  <tr><td colspan="3" style="height: 6px; width: 171px; line-height: 1px; padding: 0px; margin: 0px; font-size: 1px; -webkit-text-size-adjust:none;"><img src="http://springpad.com/springpad/images/email/workbook-b-left.gif" alt="" width="8" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-side.gif" alt="" width="157" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-right.gif" alt="" width="6" height="6"/></td></tr>
+  </tbody>
+</table><!-- Notebook End -->
+        <div style="margin: 10px auto; text-align: center; max-width: 90px;"><!-- Button -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="bottom"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fjeffreyphillip%2Fnotebooks%2Fjpspartypicks-32%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.top.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+  <tr><td bgcolor="#fec60e" background="http://springpad.com/springpad/images/email/comeback.button.bg.png" valign="center" style="max-height: 31px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fjeffreyphillip%2Fnotebooks%2Fjpspartypicks-32%2Fblocks" style="display: block; text-decoration: none; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; text-align: center; color: #482c04; font-size: 14px; line-height: 2em; white-space: nowrap; padding: 0px 1em;">Follow</a></td></tr>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="top" bgcolor="#feba00"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fjeffreyphillip%2Fnotebooks%2Fjpspartypicks-32%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.bot.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+</tbody></table>
+<!-- End Button -->
+</div>
+      </td>
+                              <td width="30">&nbsp;</td>
+              <td  >
+<!--Notebook Begin--><table border="0" style="width: 171px; overflow: hidden; margin: 0px auto; padding: 0px;" cellpadding="0" cellspacing="0"><tbody><tr>
+  <td style="width: 10px; border: 1px solid #d5d5d5; background-color: 																							#1693A5" bgcolor="																							#1693A5" width="10">
+    <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fcoolmompicks%2Fnotebooks%2Fcoolmompicks2013%2Fblocks
+" style="display: block; text-decoration:none; height: 194px">&nbsp;</a></td>
+    <td height="194" width="153" style="overflow: hidden; background-image: url('http://springpad.com/springpad/images/layout/bg.texture.wallpaper.polkadots.yellow.jpg'); background-color: #f7f1db;" background="http://springpad.com/springpad/images/layout/bg.texture.wallpaper.polkadots.yellow.jpg" bgcolor="#f7f1db">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0px; padding:0px;" ><tbody><tr><td colspan="2" height="63" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fcoolmompicks%2Fnotebooks%2Fcoolmompicks2013%2Fblocks
+" title="Discover Cool Mom Picks 2013" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 63px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Fimg0.etsystatic.com%2F043%2F0%2F6091721%2Fil_570xN.508571556_8zry.jpg" border="0" alt="Image from Cool Mom Picks 2013" width="50%" height="63" /><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Fimages.anthropologie.com%2Fis%2Fimage%2FAnthropologie%2F27735307_060_b%3F%24redesign-appcat%24" border="0" alt="Image from Cool Mom Picks 2013" width="50%" height="63" /></a></td></tr>
+
+      <tr><td rowspan="2" height="76" style="background-color: white;" bgcolor="#FFFFFF">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fcoolmompicks%2Fnotebooks%2Fcoolmompicks2013%2Fblocks
+" title="Discover Cool Mom Picks 2013" style="text-decoration: none; color: #272c29; display: block; padding: 10px; overflow: hidden; height: 100%; min-height: 56px; overflow: hidden; text-align: left; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; font-size: 13px ">
+        Cool Mom Picks 2013
+      </a>      </td><td valign="middle" style="text-align: center; background-color:#f0efeb;" bgcolor="#f0efeb" width="40" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fcoolmompicks%2Fnotebooks%2Fcoolmompicks2013%2Fblocks
+" title="Discover Cool Mom Picks 2013" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">89</div>
+items      </a>        </td>
+      </tr>
+      <tr><td valign="middle" style="text-align: center; background-color:#f0efeb" bgcolor="#f0efeb" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fcoolmompicks%2Fnotebooks%2Fcoolmompicks2013%2Fblocks
+" title="Discover Cool Mom Picks 2013" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">16</div>
+followers      </a>      </td></tr>
+
+      <tr><td colspan="2" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fcoolmompicks%2Fnotebooks%2Fcoolmompicks2013%2Fblocks
+" title="Discover Cool Mom Picks 2013" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 55px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51GDlN8nqLL.jpg" border="0" alt="Image from Cool Mom Picks 2013" width="50%" height="55" /><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Fimg0.etsystatic.com%2F019%2F0%2F5356614%2Fil_570xN.478865364_ngto.jpg" border="0" alt="Image from Cool Mom Picks 2013" width="50%" height="55" /></a></td></tr></tbody></table>
+    </td>
+    <td style="width: 6px; overflow: hidden; font-size: 0.01px; line-height: 0.01px; -webkit-text-size-adjust:none;" valign="bottom"><img src="http://springpad.com/springpad/images/email/workbook-r-top.gif" alt="" width="6" height="8"/><img src="http://springpad.com/springpad/images/email/workbook-r-side.gif" alt="" width="6" height="186"/></td>
+  </tr>
+  <tr><td colspan="3" style="height: 6px; width: 171px; line-height: 1px; padding: 0px; margin: 0px; font-size: 1px; -webkit-text-size-adjust:none;"><img src="http://springpad.com/springpad/images/email/workbook-b-left.gif" alt="" width="8" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-side.gif" alt="" width="157" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-right.gif" alt="" width="6" height="6"/></td></tr>
+  </tbody>
+</table><!-- Notebook End -->
+        <div style="margin: 10px auto; text-align: center; max-width: 90px;"><!-- Button -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="bottom"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fcoolmompicks%2Fnotebooks%2Fcoolmompicks2013%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.top.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+  <tr><td bgcolor="#fec60e" background="http://springpad.com/springpad/images/email/comeback.button.bg.png" valign="center" style="max-height: 31px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fcoolmompicks%2Fnotebooks%2Fcoolmompicks2013%2Fblocks" style="display: block; text-decoration: none; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; text-align: center; color: #482c04; font-size: 14px; line-height: 2em; white-space: nowrap; padding: 0px 1em;">Follow</a></td></tr>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="top" bgcolor="#feba00"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fcoolmompicks%2Fnotebooks%2Fcoolmompicks2013%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.bot.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+</tbody></table>
+<!-- End Button -->
+</div>
+      </td>
+                            </tr>
+    <tr><td colspan="3" height="25">&nbsp;</td></tr>
+    <tr>
+              <td  >
+<!--Notebook Begin--><table border="0" style="width: 171px; overflow: hidden; margin: 0px auto; padding: 0px;" cellpadding="0" cellspacing="0"><tbody><tr>
+  <td style="width: 10px; border: 1px solid #d5d5d5; background-color: 																							#342c47" bgcolor="																							#342c47" width="10">
+    <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FBreville%2Fnotebooks%2Fhomefortheholidays-370b%2Fblocks
+" style="display: block; text-decoration:none; height: 194px">&nbsp;</a></td>
+    <td height="194" width="153" style="overflow: hidden; background-image: url('http://springpad.com/springpad/images/layout/bg.white.damask.floral.png'); background-color: #eae8e2;" background="http://springpad.com/springpad/images/layout/bg.white.damask.floral.png" bgcolor="#eae8e2">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0px; padding:0px;" ><tbody><tr><td colspan="2" height="63" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FBreville%2Fnotebooks%2Fhomefortheholidays-370b%2Fblocks
+" title="Discover Home for the Holidays" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 63px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Fmedia-cache-lt0.pinterest.com%2F550x%2F63%2F2e%2F27%2F632e27d4dfafbdcafe0fba5ad5e17e0c.jpg" border="0" alt="Image from Home for the Holidays" width="50%" height="63" /><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Fblogs.miaminewtimes.com%2Fshortorder%2F090922_granita_32_opt.jpg" border="0" alt="Image from Home for the Holidays" width="50%" height="63" /></a></td></tr>
+
+      <tr><td rowspan="2" height="76" style="background-color: white;" bgcolor="#FFFFFF">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FBreville%2Fnotebooks%2Fhomefortheholidays-370b%2Fblocks
+" title="Discover Home for the Holidays" style="text-decoration: none; color: #272c29; display: block; padding: 10px; overflow: hidden; height: 100%; min-height: 56px; overflow: hidden; text-align: left; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; font-size: 13px ">
+        Home for the Holidays
+      </a>      </td><td valign="middle" style="text-align: center; background-color:#f0efeb;" bgcolor="#f0efeb" width="40" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FBreville%2Fnotebooks%2Fhomefortheholidays-370b%2Fblocks
+" title="Discover Home for the Holidays" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">58</div>
+items      </a>        </td>
+      </tr>
+      <tr><td valign="middle" style="text-align: center; background-color:#f0efeb" bgcolor="#f0efeb" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FBreville%2Fnotebooks%2Fhomefortheholidays-370b%2Fblocks
+" title="Discover Home for the Holidays" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">5144</div>
+followers      </a>      </td></tr>
+
+      <tr><td colspan="2" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FBreville%2Fnotebooks%2Fhomefortheholidays-370b%2Fblocks
+" title="Discover Home for the Holidays" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 55px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Ffoodthinkers.com%2Fassets%2Frobertson-bruschetta.jpg" border="0" alt="Image from Home for the Holidays" width="50%" height="55" /><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Fmedia-cache-ec7.pinterest.com%2F550x%2Fd3%2Fac%2F2b%2Fd3ac2bb17b3731ea4bd4b70ec60f0f93.jpg" border="0" alt="Image from Home for the Holidays" width="50%" height="55" /></a></td></tr></tbody></table>
+    </td>
+    <td style="width: 6px; overflow: hidden; font-size: 0.01px; line-height: 0.01px; -webkit-text-size-adjust:none;" valign="bottom"><img src="http://springpad.com/springpad/images/email/workbook-r-top.gif" alt="" width="6" height="8"/><img src="http://springpad.com/springpad/images/email/workbook-r-side.gif" alt="" width="6" height="186"/></td>
+  </tr>
+  <tr><td colspan="3" style="height: 6px; width: 171px; line-height: 1px; padding: 0px; margin: 0px; font-size: 1px; -webkit-text-size-adjust:none;"><img src="http://springpad.com/springpad/images/email/workbook-b-left.gif" alt="" width="8" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-side.gif" alt="" width="157" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-right.gif" alt="" width="6" height="6"/></td></tr>
+  </tbody>
+</table><!-- Notebook End -->
+        <div style="margin: 10px auto; text-align: center; max-width: 90px;"><!-- Button -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="bottom"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FBreville%2Fnotebooks%2Fhomefortheholidays-370b%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.top.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+  <tr><td bgcolor="#fec60e" background="http://springpad.com/springpad/images/email/comeback.button.bg.png" valign="center" style="max-height: 31px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FBreville%2Fnotebooks%2Fhomefortheholidays-370b%2Fblocks" style="display: block; text-decoration: none; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; text-align: center; color: #482c04; font-size: 14px; line-height: 2em; white-space: nowrap; padding: 0px 1em;">Follow</a></td></tr>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="top" bgcolor="#feba00"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FBreville%2Fnotebooks%2Fhomefortheholidays-370b%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.bot.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+</tbody></table>
+<!-- End Button -->
+</div>
+      </td>
+                              <td width="30">&nbsp;</td>
+              <td  >
+<!--Notebook Begin--><table border="0" style="width: 171px; overflow: hidden; margin: 0px auto; padding: 0px;" cellpadding="0" cellspacing="0"><tbody><tr>
+  <td style="width: 10px; border: 1px solid #d5d5d5; background-color: 																							#5E085E" bgcolor="																							#5E085E" width="10">
+    <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FRealSimple%2Fnotebooks%2Frealsimplesnoobligationbookclubinprocess%2Fblocks
+" style="display: block; text-decoration:none; height: 194px">&nbsp;</a></td>
+    <td height="194" width="153" style="overflow: hidden; background-image: url('http://springpad.com/springpad/images/layout/bg.texture.wooden.dark.jpg'); background-color: #3e301e;" background="http://springpad.com/springpad/images/layout/bg.texture.wooden.dark.jpg" bgcolor="#3e301e">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0px; padding:0px;" ><tbody><tr><td colspan="2" height="63" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FRealSimple%2Fnotebooks%2Frealsimplesnoobligationbookclubinprocess%2Fblocks
+" title="Discover Real Simple's No-Obligation Book Club" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 63px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Fd202m5krfqbpi5.cloudfront.net%2Fbooks%2F1364033282l%2F17286782.jpg" border="0" alt="Image from Real Simple's No-Obligation Book Club" width="50%" height="63" /><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51Ce4GvkwWL.jpg" border="0" alt="Image from Real Simple's No-Obligation Book Club" width="50%" height="63" /></a></td></tr>
+
+      <tr><td rowspan="2" height="76" style="background-color: white;" bgcolor="#FFFFFF">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FRealSimple%2Fnotebooks%2Frealsimplesnoobligationbookclubinprocess%2Fblocks
+" title="Discover Real Simple's No-Obligation Book Club" style="text-decoration: none; color: #272c29; display: block; padding: 10px; overflow: hidden; height: 100%; min-height: 56px; overflow: hidden; text-align: left; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; font-size: 13px ">
+        Real Simple's No-Obligation Book Club
+      </a>      </td><td valign="middle" style="text-align: center; background-color:#f0efeb;" bgcolor="#f0efeb" width="40" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FRealSimple%2Fnotebooks%2Frealsimplesnoobligationbookclubinprocess%2Fblocks
+" title="Discover Real Simple's No-Obligation Book Club" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">66</div>
+items      </a>        </td>
+      </tr>
+      <tr><td valign="middle" style="text-align: center; background-color:#f0efeb" bgcolor="#f0efeb" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FRealSimple%2Fnotebooks%2Frealsimplesnoobligationbookclubinprocess%2Fblocks
+" title="Discover Real Simple's No-Obligation Book Club" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">661</div>
+followers      </a>      </td></tr>
+
+      <tr><td colspan="2" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FRealSimple%2Fnotebooks%2Frealsimplesnoobligationbookclubinprocess%2Fblocks
+" title="Discover Real Simple's No-Obligation Book Club" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 55px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Fimg4-1.realsimple.timeinc.net%2Fimages%2Fwork-life%2Fetiquette%2F0503%2FCarry-Books_300.jpg" border="0" alt="Image from Real Simple's No-Obligation Book Club" width="50%" height="55" /><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51PSJb%252BYZmL.jpg" border="0" alt="Image from Real Simple's No-Obligation Book Club" width="50%" height="55" /></a></td></tr></tbody></table>
+    </td>
+    <td style="width: 6px; overflow: hidden; font-size: 0.01px; line-height: 0.01px; -webkit-text-size-adjust:none;" valign="bottom"><img src="http://springpad.com/springpad/images/email/workbook-r-top.gif" alt="" width="6" height="8"/><img src="http://springpad.com/springpad/images/email/workbook-r-side.gif" alt="" width="6" height="186"/></td>
+  </tr>
+  <tr><td colspan="3" style="height: 6px; width: 171px; line-height: 1px; padding: 0px; margin: 0px; font-size: 1px; -webkit-text-size-adjust:none;"><img src="http://springpad.com/springpad/images/email/workbook-b-left.gif" alt="" width="8" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-side.gif" alt="" width="157" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-right.gif" alt="" width="6" height="6"/></td></tr>
+  </tbody>
+</table><!-- Notebook End -->
+        <div style="margin: 10px auto; text-align: center; max-width: 90px;"><!-- Button -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="bottom"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FRealSimple%2Fnotebooks%2Frealsimplesnoobligationbookclubinprocess%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.top.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+  <tr><td bgcolor="#fec60e" background="http://springpad.com/springpad/images/email/comeback.button.bg.png" valign="center" style="max-height: 31px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FRealSimple%2Fnotebooks%2Frealsimplesnoobligationbookclubinprocess%2Fblocks" style="display: block; text-decoration: none; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; text-align: center; color: #482c04; font-size: 14px; line-height: 2em; white-space: nowrap; padding: 0px 1em;">Follow</a></td></tr>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="top" bgcolor="#feba00"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FRealSimple%2Fnotebooks%2Frealsimplesnoobligationbookclubinprocess%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.bot.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+</tbody></table>
+<!-- End Button -->
+</div>
+      </td>
+                            </tr>
+    <tr><td colspan="3" height="25">&nbsp;</td></tr>
+    <tr>
+              <td  >
+<!--Notebook Begin--><table border="0" style="width: 171px; overflow: hidden; margin: 0px auto; padding: 0px;" cellpadding="0" cellspacing="0"><tbody><tr>
+  <td style="width: 10px; border: 1px solid #d5d5d5; background-color: 																							#c7e1d8" bgcolor="																							#c7e1d8" width="10">
+    <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fmurielle%2Fnotebooks%2Fprintables%2Fblocks
+" style="display: block; text-decoration:none; height: 194px">&nbsp;</a></td>
+    <td height="194" width="153" style="overflow: hidden; background-image: url('http://springpad.com/springpad/images/layout/bg.white.damask.floral.png'); background-color: #eae8e2;" background="http://springpad.com/springpad/images/layout/bg.white.damask.floral.png" bgcolor="#eae8e2">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0px; padding:0px;" ><tbody><tr><td colspan="2" height="63" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fmurielle%2Fnotebooks%2Fprintables%2Fblocks
+" title="Discover Printables" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 63px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=63&url=https%3A%2F%2Fspringpad.com%2Fproxy%2Fuserdata%2F13126%2F13126d836fc5caa7d425ff4b100475f7%2F24382c7e-3dea-495b-9f39-7ddaef1777b0.png" border="0" alt="Image from Printables" width="50%" height="63" /><img src="http://springpad.com/api/image/scale?w=76&h=63&url=https%3A%2F%2Fspringpad.com%2Fproxy%2Fuserdata%2F822aa%2F822aa0de56b8824f552bad679403299e%2F2432b202-6af7-4ef0-955c-7c60e7990782.png" border="0" alt="Image from Printables" width="50%" height="63" /></a></td></tr>
+
+      <tr><td rowspan="2" height="76" style="background-color: white;" bgcolor="#FFFFFF">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fmurielle%2Fnotebooks%2Fprintables%2Fblocks
+" title="Discover Printables" style="text-decoration: none; color: #272c29; display: block; padding: 10px; overflow: hidden; height: 100%; min-height: 56px; overflow: hidden; text-align: left; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; font-size: 13px ">
+        Printables
+      </a>      </td><td valign="middle" style="text-align: center; background-color:#f0efeb;" bgcolor="#f0efeb" width="40" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fmurielle%2Fnotebooks%2Fprintables%2Fblocks
+" title="Discover Printables" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">131</div>
+items      </a>        </td>
+      </tr>
+      <tr><td valign="middle" style="text-align: center; background-color:#f0efeb" bgcolor="#f0efeb" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fmurielle%2Fnotebooks%2Fprintables%2Fblocks
+" title="Discover Printables" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">108</div>
+followers      </a>      </td></tr>
+
+      <tr><td colspan="2" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fmurielle%2Fnotebooks%2Fprintables%2Fblocks
+" title="Discover Printables" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 55px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=55&url=https%3A%2F%2Fspringpad.com%2Fproxy%2Fuserdata%2Fc283b%2Fc283bb95dfe8e39133ee6cf61a8674f2%2F243e0fde-f031-47e7-ac79-d8c6ae3bef8d.png" border="0" alt="Image from Printables" width="50%" height="55" /><img src="http://springpad.com/api/image/scale?w=76&h=55&url=https%3A%2F%2Fspringpad.com%2Fproxy%2Fuserdata%2Fefe4c%2Fefe4c97148bd678d9e82fb92a912a801%2F24303c0d-293d-4727-b424-c491e96750f4.png" border="0" alt="Image from Printables" width="50%" height="55" /></a></td></tr></tbody></table>
+    </td>
+    <td style="width: 6px; overflow: hidden; font-size: 0.01px; line-height: 0.01px; -webkit-text-size-adjust:none;" valign="bottom"><img src="http://springpad.com/springpad/images/email/workbook-r-top.gif" alt="" width="6" height="8"/><img src="http://springpad.com/springpad/images/email/workbook-r-side.gif" alt="" width="6" height="186"/></td>
+  </tr>
+  <tr><td colspan="3" style="height: 6px; width: 171px; line-height: 1px; padding: 0px; margin: 0px; font-size: 1px; -webkit-text-size-adjust:none;"><img src="http://springpad.com/springpad/images/email/workbook-b-left.gif" alt="" width="8" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-side.gif" alt="" width="157" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-right.gif" alt="" width="6" height="6"/></td></tr>
+  </tbody>
+</table><!-- Notebook End -->
+        <div style="margin: 10px auto; text-align: center; max-width: 90px;"><!-- Button -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="bottom"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fmurielle%2Fnotebooks%2Fprintables%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.top.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+  <tr><td bgcolor="#fec60e" background="http://springpad.com/springpad/images/email/comeback.button.bg.png" valign="center" style="max-height: 31px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fmurielle%2Fnotebooks%2Fprintables%2Fblocks" style="display: block; text-decoration: none; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; text-align: center; color: #482c04; font-size: 14px; line-height: 2em; white-space: nowrap; padding: 0px 1em;">Follow</a></td></tr>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="top" bgcolor="#feba00"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2Fmurielle%2Fnotebooks%2Fprintables%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.bot.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+</tbody></table>
+<!-- End Button -->
+</div>
+      </td>
+                              <td width="30">&nbsp;</td>
+              <td  >
+<!--Notebook Begin--><table border="0" style="width: 171px; overflow: hidden; margin: 0px auto; padding: 0px;" cellpadding="0" cellspacing="0"><tbody><tr>
+  <td style="width: 10px; border: 1px solid #d5d5d5; background-color: 																							#FC8FC4" bgcolor="																							#FC8FC4" width="10">
+    <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FGlamour%2Fnotebooks%2Fglamoursholidaycheers%2Fblocks
+" style="display: block; text-decoration:none; height: 194px">&nbsp;</a></td>
+    <td height="194" width="153" style="overflow: hidden; background-image: url('http://springpad.com/springpad/images/layout/bg.texture.wallpaper.polkadots.yellow.jpg'); background-color: #f7f1db;" background="http://springpad.com/springpad/images/layout/bg.texture.wallpaper.polkadots.yellow.jpg" bgcolor="#f7f1db">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0px; padding:0px;" ><tbody><tr><td colspan="2" height="63" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FGlamour%2Fnotebooks%2Fglamoursholidaycheers%2Fblocks
+" title="Discover Glamour's Holiday Cheers" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 63px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Fwww.glamour.com%2Fimages%2Fhealth-fitness%2F2012%2F11%2Fegg-nog-cocktail-w724.jpg" border="0" alt="Image from Glamour's Holiday Cheers" width="50%" height="63" /><img src="http://springpad.com/api/image/scale?w=76&h=63&url=http%3A%2F%2Fwww.glamour.com%2Fhealth-fitness%2Fblogs%2Fvitamin-g%2F2012%2F09%2F28%2F0929_TITO-Spiced-Pear_vg.jpg" border="0" alt="Image from Glamour's Holiday Cheers" width="50%" height="63" /></a></td></tr>
+
+      <tr><td rowspan="2" height="76" style="background-color: white;" bgcolor="#FFFFFF">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FGlamour%2Fnotebooks%2Fglamoursholidaycheers%2Fblocks
+" title="Discover Glamour's Holiday Cheers" style="text-decoration: none; color: #272c29; display: block; padding: 10px; overflow: hidden; height: 100%; min-height: 56px; overflow: hidden; text-align: left; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; font-size: 13px ">
+        Glamour's Holiday Cheers
+      </a>      </td><td valign="middle" style="text-align: center; background-color:#f0efeb;" bgcolor="#f0efeb" width="40" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FGlamour%2Fnotebooks%2Fglamoursholidaycheers%2Fblocks
+" title="Discover Glamour's Holiday Cheers" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">6</div>
+items      </a>        </td>
+      </tr>
+      <tr><td valign="middle" style="text-align: center; background-color:#f0efeb" bgcolor="#f0efeb" height="38">
+      <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FGlamour%2Fnotebooks%2Fglamoursholidaycheers%2Fblocks
+" title="Discover Glamour's Holiday Cheers" style="line-height: 10px; text-decoration: none; color: #808080; font-size: 7px; -webkit-text-size-adjust:none;">
+        <div style="margin: 0px; padding: 0px; font-size: 14px;">208</div>
+followers      </a>      </td></tr>
+
+      <tr><td colspan="2" style="line-height: 1px; font-size: 1px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FGlamour%2Fnotebooks%2Fglamoursholidaycheers%2Fblocks
+" title="Discover Glamour's Holiday Cheers" style="text-decoration: none; display: block; width:100%; height:100%; min-height: 55px; line-height: 0.1em;"><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Fwww.wearenotmartha.com%2Fwp-content%2Fuploads%2FCranberry-Mojito-1.jpg" border="0" alt="Image from Glamour's Holiday Cheers" width="50%" height="55" /><img src="http://springpad.com/api/image/scale?w=76&h=55&url=http%3A%2F%2Fwww.glamour.com%2Fimages%2Fhealth-fitness%2F2012%2F12%2FMarbleLane-WinterWarmer-w724.jpg" border="0" alt="Image from Glamour's Holiday Cheers" width="50%" height="55" /></a></td></tr></tbody></table>
+    </td>
+    <td style="width: 6px; overflow: hidden; font-size: 0.01px; line-height: 0.01px; -webkit-text-size-adjust:none;" valign="bottom"><img src="http://springpad.com/springpad/images/email/workbook-r-top.gif" alt="" width="6" height="8"/><img src="http://springpad.com/springpad/images/email/workbook-r-side.gif" alt="" width="6" height="186"/></td>
+  </tr>
+  <tr><td colspan="3" style="height: 6px; width: 171px; line-height: 1px; padding: 0px; margin: 0px; font-size: 1px; -webkit-text-size-adjust:none;"><img src="http://springpad.com/springpad/images/email/workbook-b-left.gif" alt="" width="8" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-side.gif" alt="" width="157" height="6"/><img src="http://springpad.com/springpad/images/email/workbook-b-right.gif" alt="" width="6" height="6"/></td></tr>
+  </tbody>
+</table><!-- Notebook End -->
+        <div style="margin: 10px auto; text-align: center; max-width: 90px;"><!-- Button -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="bottom"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FGlamour%2Fnotebooks%2Fglamoursholidaycheers%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.top.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+  <tr><td bgcolor="#fec60e" background="http://springpad.com/springpad/images/email/comeback.button.bg.png" valign="center" style="max-height: 31px;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FGlamour%2Fnotebooks%2Fglamoursholidaycheers%2Fblocks" style="display: block; text-decoration: none; font-weight: bold; font-family: Helvetica, 'Helvetica Neue', Arial; text-align: center; color: #482c04; font-size: 14px; line-height: 2em; white-space: nowrap; padding: 0px 1em;">Follow</a></td></tr>
+  <tr style="line-height: 0.01px; font-size: 0.01px;"><td valign="top" bgcolor="#feba00"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2F%23%21%2FGlamour%2Fnotebooks%2Fglamoursholidaycheers%2Fblocks"><img src="http://springpad.com/springpad/images/email/comeback.button.bot.png" width="100%" style="max-height: 13px;" alt=""/></a></td></tr>
+</tbody></table>
+<!-- End Button -->
+</div>
+      </td>
+                        </tr>
+
+  </tbody></table></div>
+  </div>
+
+<img src="http://springpad.com/springpad/images/email/weekly.bg.triline.gif" width="100%" height="5" style="margin: 15px 0px;"/>
+<div style="margin-top: 20px;">
+  <h2 style="text-align: center; font-family: Helvetica,'Helvetica Neue',Arial; margin-bottom: 25px;">From the Springpad Blog</h2>
+  <div style="margin: 10px 4% 0px;">
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" style="text-align: left;"><tbody>
+                                  <tr><td style="padding: 12px;" valign="middle" style="text-align: center;" width="29">
+     <img src="http://springpad.com/springpad/images/email/weekly.li.dot.gif" height="16" width="16" alt="(Dot)" />   </td><td style="padding: 10px 12px 12px 0px;">
+     <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2Fblog%2F2013%2F11%2Ftake-stress-out-of-holiday-shopping-cool-mom-picks%2F" style="color: #010101; text-decoration: none;">Stress-free holiday shopping with the Cool Mom Picks Holiday Gift Planner &nbsp;<span style="color: #DD4469; text-decoration: underline;">Read More</span></a>   </td>
+</tr>
+                                        <tr><td style="font-size: 0.01em; line-height: 0.01;" background="http://springpad.com/springpad/images/email/hiagain.gfor.div.gif" height="1" colspan="2">&nbsp;</td></tr>
+                    <tr><td style="padding: 12px;" valign="middle" style="text-align: center;" width="29">
+     <img src="http://springpad.com/springpad/images/email/weekly.li.dot.gif" height="16" width="16" alt="(Dot)" />   </td><td style="padding: 10px 12px 12px 0px;">
+     <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2Fblog%2F2013%2F11%2Fuse-the-springpad-recipe-notebook-to-plan-your-meals%2F" style="color: #010101; text-decoration: none;">Use the Springpad Recipe Notebook to Plan Your Meals &nbsp;<span style="color: #DD4469; text-decoration: underline;">Read More</span></a>   </td>
+</tr>
+                                        <tr><td style="font-size: 0.01em; line-height: 0.01;" background="http://springpad.com/springpad/images/email/hiagain.gfor.div.gif" height="1" colspan="2">&nbsp;</td></tr>
+                    <tr><td style="padding: 12px;" valign="middle" style="text-align: center;" width="29">
+     <img src="http://springpad.com/springpad/images/email/weekly.li.dot.gif" height="16" width="16" alt="(Dot)" />   </td><td style="padding: 10px 12px 12px 0px;">
+     <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fspringpad.com%2Fblog%2F2013%2F11%2Fintroducing-customized-notebooks%2F" style="color: #010101; text-decoration: none;">Springpad's Customized Notebooks Make You More Productive &nbsp;<span style="color: #DD4469; text-decoration: underline;">Read More</span></a>   </td>
+</tr>
+                                          
+    </tbody></table>
+  </div>
+</div>
+
+<div style="margin: 50px auto;">
+  <table cellpadding="0" cellspacing="0" border="0" width="100%" style="font-size: 0.01em; line-height: 0.01em;"><tbody><tr>
+  <td width="50%" height="7"></td>
+  <td rowspan="2"><img src="http://springpad.com/springpad/images/icons/blocks/icon.block-springpad.40px.CBCBCB.png" width="20" height="20" style="margin: 0px 8px"/></td>
+  <td width="50%"></td>
+</tr><tr>
+  <td width="50%" valign="top"><img src="http://springpad.com/springpad/images/email/weekly.bg.triline.gif" width="100%" height="5" /></td>
+  <td width="50%" valign="top"><img src="http://springpad.com/springpad/images/email/weekly.bg.triline.gif" width="100%" height="5" /></td>
+</tr></tbody></table>
+</div>
+
+<div class="footer">
+  <p style="max-width: 540px; margin: 0px auto; color:#676767;">Join us on <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Fwww.facebook.com%2Fspringpad
+" title="Springpad on Facebook" style="color: #2f7aa9; text-decoration: none;">Facebook</a>, <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Fwww.twitter.com%2Fspringpad
+" title="Springpad on Twitter" style="color: #2f7aa9; text-decoration: none;">Twitter</a>, and <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fplus.google.com%2F%2BSpringpad%2F
+" title="Springpad on Google Plus" style="color: #2f7aa9; text-decoration: none;">Google Plus</a> for tips, tricks, and updates!<br/>
+      Questions? Email our support team directly at <a href="mailto:feedback@springpad.com" title="Email Springpad Support" style="color: #2f7aa9; text-decoration: none;">feedback@springpad.com</a></p>
+
+  <p style="max-width: 460px; margin: 5% auto 0%;"><a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Fwww.facebook.com%2Fspringpad
+" title="Springpad on Facebook"><img src="http://springpad.com/springpad/images/email/comeback.icon.fb.png" alt="Facebook Icon" width="34" height="34"></a>&nbsp;&nbsp;<a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Fwww.twitter.com%2Fspringpad
+" title="Springpad on Twitter"><img src="http://springpad.com/springpad/images/email/comeback.icon.twitter.png" alt="Twitter Icon" width="34" height="34"></a>&nbsp;&nbsp;<a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=https%3A%2F%2Fplus.google.com%2F%2BSpringpad%2F
+" title="Springpad on Google Plus"><img src="http://springpad.com/springpad/images/email/comeback.icon.gplus.png" alt="Google+ Icon" width="34" height="34"></a></p>
+
+  <p style="max-width: 550px; margin: 5% auto 10%; color: #7d7d7d;">You're receiving this because you registered for an account with Springpad. <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Fspringpad.com%2Funsubscribe.action%3Fid%3D-48bod4ks6hjdqZ1qg53vp4rajau
+" title="Unsubscribe">Unsubscribe from this email.</a>  To update your email preferences, <a href="https://springpad.com/tk?code=ssqudmq6jgbdc&url=http%3A%2F%2Fspringpad.com%2F%23%21%2Fhujianfei258%2Fsettings%2Fnotifications
+" title="Springpad account settings">visit your account's settings</a>.
+    <br><br>
+    Spring Partners<br>
+    1 Thompson Square<br>
+    Charlestown, MA 02129
+  </p>
+</div>
+<img src="https://springpad.com/springpad/images/tracker.gif?code=2ulf5pvf0l0vtc"></img>
+
+      </div>
+    </div>
+  </div>
+<img src="https://springpad.com/springpad/images/tracker.gif?code=1l6im7posfij1c"></img></body>
+</html>
+------=_Part_326698_550119644.1386020085241--
+
+------=_Part_326697_118478459.1386020085241--
+
+------=_Part_326696_1518448933.1386020085240--

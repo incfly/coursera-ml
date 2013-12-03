@@ -23,10 +23,24 @@ sigma = 0.3;
 %        mean(double(predictions ~= yval))
 %
 
+Cs = [0.01 0.03 0.1 0.3 1 3 10 30];
+sigmas = [0.01 0.03 0.1 0.3 1 3 10 30];
+min_miss = 999999;
 
-
-
-
+for i=1:8
+    for j=1:8
+        tC = Cs(i);
+        tSigma = sigmas(j);
+        model= svmTrain(X, y, tC, @(x1, x2) gaussianKernel(x1, x2, tSigma));
+        preditions = svmPredict(model, Xval);
+        t = mean(double(preditions ~= yval));
+        if t < min_miss
+            C = tC;
+            sigma = tSigma;
+            min_miss = t;
+        end
+    end
+end
 
 
 % =========================================================================

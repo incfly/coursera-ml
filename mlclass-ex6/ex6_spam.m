@@ -125,7 +125,12 @@ pause;
 % Set the file to be read in (change this to spamSample2.txt,
 % emailSample1.txt or emailSample2.txt to see different predictions on
 % different emails types). Try your own emails as well!
-filename = 'spamSample1.txt';
+
+filelist = ['spamSample1.txt ';'spamSample2.txt ';'spamSample3.txt ';'emailSample1.txt';'emailSample2.txt';'emailSample3.txt'];
+filelist = cellstr(filelist);
+for i=1:length(filelist)
+%filename = 'spamSample2.txt';
+filename = filelist{i};
 
 % Read and predict
 file_contents = readFile(filename);
@@ -134,5 +139,9 @@ x             = emailFeatures(word_indices);
 p = svmPredict(model, x);
 
 fprintf('\nProcessed %s\n\nSpam Classification: %d\n', filename, p);
+end
 fprintf('(1 indicates spam, 0 indicates not spam)\n\n');
+
+
+
 
